@@ -261,8 +261,6 @@ and licensing restrictions shown in the following:
  - Copyright Contact: collectionsBIO@gmail.com
  - Copyright Year: 2021
 
-###### <h3> Collaborators
-"Ming Gong" <ming_gong@sfu.ca>  
 
  
 
