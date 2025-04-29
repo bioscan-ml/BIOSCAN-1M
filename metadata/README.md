@@ -4,7 +4,7 @@ BIOSCAN-1M metadata file.
 
 ###### <h3> Metadata file
 The metadata files of the BIOSCAN-1M dataset are available in the [GoogleDrive](https://drive.google.com/drive/u/1/folders/1kD9cXuQ1FdL30etp7sjy_Gs_NAAJ3EXI),
-within [BIOSCAN_1M_METADATA](https://drive.google.com/drive/u/1/folders/14-j4B2eeWNokjdHiVT2sEMwLWojzcvXf) folder.
+within [BIOSCAN_1M_metadata](https://drive.google.com/drive/u/1/folders/14-j4B2eeWNokjdHiVT2sEMwLWojzcvXf) folder.
 There are two metadata file format `TSV` and  `JSON-LD`.
 
 ```plaintext
