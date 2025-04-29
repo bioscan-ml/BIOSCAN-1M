@@ -7,6 +7,13 @@ The metadata files of the BIOSCAN-1M dataset are available in the [GoogleDrive](
 within [BIOSCAN_1M_METADATA](https://drive.google.com/drive/u/1/folders/14-j4B2eeWNokjdHiVT2sEMwLWojzcvXf) folder.
 There are two metadata file format `TSV` and  `JSON-LD`.
 
+```plaintext
+BIOSCAN_1M_Insect_Dataset_metadata.[type_extension]
+```
+
+- `[type_extension]`:
+  - `tsv`
+  - `jsonld`
 
 ###### <h3> Metadata fields
 The table below lists the metadata fields of the BIOSCAN-1M dataset. To facilitate the use of BIOSCAN datasets, corresponding fields from the BIOSCAN-5M metadata are also included for reference.
