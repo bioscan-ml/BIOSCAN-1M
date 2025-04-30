@@ -11,7 +11,7 @@ The results correspond to the test split of the Large dataset.
        alt="insect." 
        width="100%" 
        height="auto" />
-  <p><b>Figure 2:</b> Per-class predictions of the *Insect Order* classification using the Large dataset of the BIOSCAN-1M Insect dataset</p>
+  <p><b>Figure 2:</b> Per-class predictions of the <i>Insect Order</i> classification using the Large dataset of the BIOSCAN-1M Insect dataset</p>
 </div>
 
 
@@ -20,5 +20,5 @@ The results correspond to the test split of the Large dataset.
        alt="diptera." 
        width="100%" 
        height="auto" />
-  <p><b>Figure 2:</b> per-class predictions of the *Family Diptera* classification using the Large dataset of the BIOSCAN-1M Insect dataset</p>
+  <p><b>Figure 2:</b> per-class predictions of the <i>Family Diptera</i> classification using the Large dataset of the BIOSCAN-1M Insect dataset</p>
 </div>
