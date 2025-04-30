@@ -16,7 +16,7 @@ the taxonomy classification of insects.
 > - Specimen size information  
 > - Cleaned and pruned taxonomic labels  
 > - A new split strategy optimized for **multimodal learning**
-> For more details kindly visit the [BIOSCAN-5M](https://github.com/bioscan-ml/BIOSCAN-5M) repository.
+> - For more details kindly visit the [BIOSCAN-5M](https://github.com/bioscan-ml/BIOSCAN-5M) repository.
 
 
 Anyone interested in using BIOSCAN-1M Insect dataset and/or the corresponding code repository, please cite the [Paper](http://arxiv.org/abs/2307.10455):
