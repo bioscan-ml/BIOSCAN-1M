@@ -9,17 +9,6 @@ for download via the provided links. The repository encompasses code for data sa
 dataset statistics analysis, as well as image-based classification experiments centered around 
 the taxonomy classification of insects. 
 
-> **ℹ️ Note**  
-> The samples from the **BIOSCAN-1M** dataset are included in the larger **BIOSCAN-5M** dataset.  
-> BIOSCAN-5M enhances the original with additional attributes such as:
-> - Geographic coordinates  
-> - Specimen size information  
-> - Cleaned and pruned taxonomic labels  
-> - A new split strategy optimized for **multimodal learning**
->
-> For more details kindly visit the [BIOSCAN-5M](https://github.com/bioscan-ml/BIOSCAN-5M) repository.
-
-
 Anyone interested in using BIOSCAN-1M Insect dataset and/or the corresponding code repository, please cite the [Paper](http://arxiv.org/abs/2307.10455):
 
 ```
@@ -35,6 +24,17 @@ Anyone interested in using BIOSCAN-1M Insect dataset and/or the corresponding co
     url={https://proceedings.neurips.cc/paper_files/paper/2023/file/87dbbdc3a685a97ad28489a1d57c45c1-Paper-Datasets_and_Benchmarks.pdf},
 }
 ```
+
+> **ℹ️ Note**  
+> The samples from the **BIOSCAN-1M** dataset are included in the larger **BIOSCAN-5M** dataset.  
+> BIOSCAN-5M enhances the original with additional attributes such as:
+> - Geographic coordinates  
+> - Specimen size information  
+> - Cleaned and pruned taxonomic labels  
+> - A new split strategy optimized for **multimodal learning**
+>
+> For more details kindly visit the [BIOSCAN-5M](https://github.com/bioscan-ml/BIOSCAN-5M) repository.
+
 ###### <h3> Dataset Access
 The BIOSCAN-1M Insect dataset is available on [GoogleDrive](https://drive.google.com/drive/u/1/folders/1kD9cXuQ1FdL30etp7sjy_Gs_NAAJ3EXI), 
 [Zenodo](https://doi.org/10.5281/zenodo.8030065), [Kaggle](https://www.kaggle.com/ds/3870041), and [HuggingFace](https://huggingface.co/datasets/Gharaee/BIOSCAN_1M_Insect_Dataset).
