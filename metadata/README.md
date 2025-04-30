@@ -48,10 +48,11 @@ The table below lists the metadata fields of the BIOSCAN-1M dataset. To facilita
 | 23 | `NA`                    | `split`                   | Split set (partition) the sample belongs to.                                 | String   |
 | 24 | `NA`                    | `chunk`                   | Subdirectory name (or empty string) for this image.                          | String   |
 | 25 | `chunk_number`          | `NA`                      | Subdirectory number for this image.                                          | Integer  |
-| 26 | `large_diptera_family`  | `NA`                      | Split set for experiments with Large Diptera Family dataset.                 | String   |
-| 27 | `medium_diptera_family` | `NA`                      | Split set for experiments with Medium Diptera Family dataset.                | String   |
-| 28 | `small_diptera_family`  | `NA`                      | Split set for experiments with Small Diptera Family dataset.                 | String   |
-| 29 | `large_insect_order`    | `NA`                      | Split set for experiments with Large Insect Order dataset.                   | String   |
-| 30 | `medium_insect_order`   | `NA`                      | Split set for experiments with Medium Insect Order dataset.                  | String   |
-| 31 | `small_insect_order`    | `NA`                      | Split set for experiments with Small Insect Order dataset.                   | String   |
+| 26 | `image_file`            | `NA`                      | Image file name saved in the drive.                                          | Integer  |
+| 27 | `large_diptera_family`  | `NA`                      | Split set for experiments with Large Diptera Family dataset.                 | String   |
+| 28 | `medium_diptera_family` | `NA`                      | Split set for experiments with Medium Diptera Family dataset.                | String   |
+| 29 | `small_diptera_family`  | `NA`                      | Split set for experiments with Small Diptera Family dataset.                 | String   |
+| 30 | `large_insect_order`    | `NA`                      | Split set for experiments with Large Insect Order dataset.                   | String   |
+| 31 | `medium_insect_order`   | `NA`                      | Split set for experiments with Medium Insect Order dataset.                  | String   |
+| 32 | `small_insect_order`    | `NA`                      | Split set for experiments with Small Insect Order dataset.                   | String   |
 

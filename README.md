@@ -1,4 +1,4 @@
-# BIOSCAN-1M Insect
+# BIOSCAN-1M
 
 ![Alt Text](dataset/bioscan_images/Fig1.png)
 
@@ -8,6 +8,15 @@ Within this project, we introduce the __BIOSCAN-1M Insect dataset__, which can b
 for download via the provided links. The repository encompasses code for data sampling and splitting, 
 dataset statistics analysis, as well as image-based classification experiments centered around 
 the taxonomy classification of insects. 
+
+> **ℹ️ Note**  
+> The samples from the **BIOSCAN-1M** dataset are included in the larger **BIOSCAN-5M** dataset.  
+> BIOSCAN-5M enhances the original with additional attributes such as:
+> - Geographic coordinates  
+> - Specimen size information  
+> - Cleaned and pruned taxonomic labels  
+> - A new split strategy optimized for **multimodal learning**
+> For more details kindly visit the [BIOSCAN-5M](https://github.com/bioscan-ml/BIOSCAN-5M) repository.
 
 
 Anyone interested in using BIOSCAN-1M Insect dataset and/or the corresponding code repository, please cite the [Paper](http://arxiv.org/abs/2307.10455):
