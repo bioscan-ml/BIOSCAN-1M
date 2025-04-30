@@ -9,7 +9,7 @@ within the following folders:
 
 
 
-> **Note**: The original BIOSCAN-1M images are high-resolution RGB JPEGs (2880×2160 pixels), which contribute to large package sizes.
+> **ℹ️ Note**: The original BIOSCAN-1M images are high-resolution RGB JPEGs (2880×2160 pixels), which contribute to large package sizes.
 For the BIOSCAN-5M dataset, these images were resized to 1024×768 pixels (referred to as original_full), significantly reducing the overall package size.
 
 | **Folder Name**              | **Description**                                                           | **File Format / Name**                                |

@@ -18,7 +18,7 @@ BIOSCAN_1M_Insect_Dataset_metadata.[type_extension]
 ###### <h3> Metadata fields
 The table below lists the metadata fields of the BIOSCAN-1M dataset. To facilitate the use of BIOSCAN datasets, corresponding fields from the BIOSCAN-5M metadata are also included for reference.
 
-> **Note**: All specimens of the BIOSCAN-1M dataset are available in the BIOSCAN-5M dataset.  
+> **ℹ️ Note**: All specimens of the BIOSCAN-1M dataset are available in the BIOSCAN-5M dataset.  
 > `NA` denotes Not Applicable, which shows that the field is not available in the corresponding metadata file.
 
 |    | **BIOSCAN-1M Field**    | **BIOSCAN-5M Field**      | **Description**                                                              | **Type** |
